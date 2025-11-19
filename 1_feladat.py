@@ -22,6 +22,9 @@ for i in range(21):
 
 print(dobasok_szamai)
 
+
+
+
 print('1. feladat')
 
 if 5 in dobasok_szamai:
@@ -31,6 +34,8 @@ else:
     print('Nincs 5-ös a listában.')
 
 print('-----------------------\n')
+
+
 
 
 print('2. feladat')
@@ -43,6 +48,8 @@ else:
     print('Nincs 1-es a listában.')
 
 print('-----------------------\n')
+
+
 
 
 print('3. feladat')
@@ -60,6 +67,8 @@ else:
 print('-----------------------\n')
 
 
+
+
 print('4. feladat')
 
 for szam in dobasok_szamai:
@@ -74,6 +83,8 @@ else:
     print('Nincs 4-nél nagyobb szám a listában.')
 
 print('-----------------------\n')
+
+
 
 
 print('5. feladat')
